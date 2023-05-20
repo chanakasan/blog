@@ -6,7 +6,7 @@
 :root {
   --orange: #ff8b26;
   --gray: #ddd;
-  --dark: #050505;
+  --dark: #222;
 }
 
 body {
@@ -19,7 +19,18 @@ h1,h2,h3,h4,h5 {
 }
 
 header {
-  border-bottom: 1px solid var(--gray);
+  background: var(--dark) !important;
+  border-bottom: none !important;
+  margin-bottom: 0 !important;
+}
+
+header h1 {
+  font-size: 32px !important;
+}
+
+header h1:before {
+  content: "  ";
+  padding: 20px;
 }
 
 header h1, header h2 {
