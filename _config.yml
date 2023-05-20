@@ -30,7 +30,7 @@ bsaeurl: /blog
 title: Dev Notes
 email: donotreply@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ...small but interesting stuff.
+  ...interesting stuff
 twitter_username: jekyllrb
 github_username: jekyll
 
