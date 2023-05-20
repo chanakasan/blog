@@ -22,7 +22,7 @@ We can install and run apps this way without affecting our main Windows OS.
 <img src="{{ "/images/windows-sandbox/21.jpg" | relative_url }}" />
 <br/>
 <br/>
-<img src="{{ "/images/windows-sandbox/21.jpg" | relative_url }}" />
+<img src="{{ "/images/windows-sandbox/22.jpg" | relative_url }}" />
 
 
 ## References
