@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+.post-h3 a {
+  color: #b5e853 !important;
+  font-size: 24px;
+  text-decoration: none;
+}
+
 .post-h3 {
   margin-bottom: 40px !important;
 }
